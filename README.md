@@ -13,7 +13,7 @@ Ensure you have the following installed:
 
 ### Clone the repository
 ```sh
-git clone https://github.com/your-repo/project.git
+git clone https://github.com/Ekart
 cd project
 ```
 
