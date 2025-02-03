@@ -1,4 +1,4 @@
-# Project Name
+# EKART
 
 ## Overview
 This project consists of a frontend and a backend, both of which need to be set up and run separately.
